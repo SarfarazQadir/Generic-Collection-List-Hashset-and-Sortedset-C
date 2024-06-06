@@ -1,0 +1,7 @@
+F:\C# by Miss Aqsa\Generic Collection\Generic Collection\bin\Debug\Generic Collection.exe.config
+F:\C# by Miss Aqsa\Generic Collection\Generic Collection\bin\Debug\Generic Collection.exe
+F:\C# by Miss Aqsa\Generic Collection\Generic Collection\bin\Debug\Generic Collection.pdb
+F:\C# by Miss Aqsa\Generic Collection\Generic Collection\obj\Debug\Generic Collection.csproj.AssemblyReference.cache
+F:\C# by Miss Aqsa\Generic Collection\Generic Collection\obj\Debug\Generic Collection.csproj.CoreCompileInputs.cache
+F:\C# by Miss Aqsa\Generic Collection\Generic Collection\obj\Debug\Generic Collection.exe
+F:\C# by Miss Aqsa\Generic Collection\Generic Collection\obj\Debug\Generic Collection.pdb
